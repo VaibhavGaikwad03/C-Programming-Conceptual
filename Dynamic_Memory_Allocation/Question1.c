@@ -5,7 +5,7 @@ students appearing in an examination. As he or she does not know how many studen
 examination day, he or she does not want to create a static array and waste the memory space. Solve his
 or her problem by creating a dynamic array, storing the marks of the students and finding the average
 
-*/
+*/ 
 
 #include <stdio.h>
 #include <malloc.h>
