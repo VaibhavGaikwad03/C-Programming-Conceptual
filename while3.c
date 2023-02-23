@@ -3,7 +3,7 @@
 int main()
 {
     int iCnt = 0;
-
+ 
     do
     {
         printf("Jay Ganesh\n");
